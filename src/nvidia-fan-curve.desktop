@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NVIDIA Fan Curve
+Comment=Auto GPU Fan Control
+Exec=/usr/bin/nvidia-fan-curve-linux.sh
+Terminal=false
+
+#Name[en_GB]=NVIDIA Fan Curve
