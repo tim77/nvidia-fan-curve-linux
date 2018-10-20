@@ -53,7 +53,7 @@ do
                         newfanspeed="0"
                         ;;
                 5[0-4])
-                        newfanspeed="15"
+                        newfanspeed="20"
                         ;;
                 5[5-7])
                         newfanspeed="30"
