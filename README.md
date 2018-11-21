@@ -7,6 +7,10 @@ NVIDIA Speed Fan Control
 Run the command
 	
 	sudo nvidia-xconfig --cool-bits 4
+	
+Or manually add in **Section "Screen"**
+
+    Option         "Coolbits" "4"
 
 ## How to install
 
